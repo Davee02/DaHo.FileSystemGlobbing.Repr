@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.6.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaHo.FileSystemGlobbing.Repro", "DaHo.FileSystemGlobbing.Repro.csproj", "{20143630-6CA0-46E4-B6F2-A9BAC55E49A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20143630-6CA0-46E4-B6F2-A9BAC55E49A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20143630-6CA0-46E4-B6F2-A9BAC55E49A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20143630-6CA0-46E4-B6F2-A9BAC55E49A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20143630-6CA0-46E4-B6F2-A9BAC55E49A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C68AE355-0C2D-4306-BE52-490EEAD2861D}
+	EndGlobalSection
+EndGlobal
